@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 凯哥(Homkai)
+title: Homkai的小屋
 description: >- # this means to ignore newlines until "baseurl:"
-  凯哥的个人主页
+  冀ICP备18023170号
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.homkai.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  homkai
